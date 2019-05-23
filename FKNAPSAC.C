@@ -1,4 +1,5 @@
 //Implementation of Fractional knapsack algorithm
+//Created by Nihar Anant Koli
 
 #include<conio.h>
 #include<stdio.h>
