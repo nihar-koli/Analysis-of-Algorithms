@@ -1,3 +1,5 @@
+//Implementation of Graph Color Algorithm (Backtracking)
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
