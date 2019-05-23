@@ -1,3 +1,5 @@
+//Implementation of Fractional knapsack algorithm
+
 #include<conio.h>
 #include<stdio.h>
 
