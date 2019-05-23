@@ -1,4 +1,5 @@
 //Implementation of Graph Color Algorithm (Backtracking)
+//Created by Nihar Anant Koli
 
 #include<stdio.h>
 #include<conio.h>
