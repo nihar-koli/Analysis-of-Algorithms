@@ -1,3 +1,5 @@
+//Created by Nihar Anant koli
+
 #include<conio.h>
 #include<stdio.h>
 int set[100];
