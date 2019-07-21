@@ -1,3 +1,4 @@
+//Implementation of Kruskal's Algorithm
 //Created by Nihar Anant koli
 
 #include<conio.h>
