@@ -1,3 +1,6 @@
+//Implementation of NQueens Algorithm
+//Created by Nihar Anant koli
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
